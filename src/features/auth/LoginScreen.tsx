@@ -1,7 +1,7 @@
 import {StyleSheet, Text, View} from 'react-native';
-import React from 'react';
+import React, {FC} from 'react';
 
-const LoginScreen = () => {
+const LoginScreen: FC = () => {
   return (
     <View>
       <Text>LoginScreen</Text>

@@ -1,11 +1,11 @@
-import {StyleSheet, Text, View} from 'react-native';
-import React from 'react';
+import {SafeAreaView, StyleSheet, Text, View} from 'react-native';
+import React, {FC} from 'react';
 
-const SplashScreen = () => {
+const SplashScreen: FC = () => {
   return (
-    <View>
+    <SafeAreaView>
       <Text>SplashScreen</Text>
-    </View>
+    </SafeAreaView>
   );
 };
 
