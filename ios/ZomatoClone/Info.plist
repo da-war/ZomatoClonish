@@ -46,6 +46,18 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIAppFonts</key>
+<array>
+  <string>Ionicons.ttf</string>
+  <string>MaterialIcons.ttf</string>
+  <string>MaterialCommunityIcons.ttf</string>
+  <string>Okra-Bold.ttf</string>
+  <string>Okra-ExtraBold.ttf</string>
+  <string>Okra-Regular.ttf</string>
+  <string>Okra-MediumLight.ttf</string>
+  <string>Okra-Medium.ttf</string>
+  </array>
+
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 </dict>
